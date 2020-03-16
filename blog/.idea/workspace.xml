@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374d9822-c7a6-4509-b517-2526b89f54f4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLTxWbjBhjU1ldnJVjy5m8eoM5" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zrj.web.admin" />
+      <recent name="com.zrj.Service" />
+      <recent name="com.zrj.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaEE\workSpaceIDEA\Spring Boot\blog\01-blog\src\main\java\com\zrj\Service" />
+      <recent name="E:\javaEE\workSpaceIDEA\Spring Boot\blog\01-blog\src\main\resources\templates\admin" />
+      <recent name="E:\javaEE\workSpaceIDEA\Spring Boot\blog\01-blog\src\main\resources\static" />
+      <recent name="E:\javaEE\workSpaceIDEA\Spring Boot\blog\01-blog\src\main\resources\templates" />
+      <recent name="E:\javaEE\workSpaceIDEA\Spring Boot\blog\01-blog\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zrj.util.MD5Utils" />
+      <module name="01-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zrj.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="02-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zrj.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="03-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zrj.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zrj.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Spring Boot.Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.094945356" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374d9822-c7a6-4509-b517-2526b89f54f4" name="Default Changelist" comment="" />
+      <created>1580824621057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580824621057</updated>
+      <workItem from="1580824624257" duration="6222000" />
+      <workItem from="1580867919294" duration="9761000" />
+      <workItem from="1580903884954" duration="9908000" />
+      <workItem from="1580952455401" duration="4631000" />
+      <workItem from="1580957485219" duration="4117000" />
+      <workItem from="1580980518494" duration="13149000" />
+      <workItem from="1581035396664" duration="15388000" />
+      <workItem from="1581131558232" duration="5207000" />
+      <workItem from="1581212220795" duration="3255000" />
+      <workItem from="1581246780058" duration="2199000" />
+      <workItem from="1581250975824" duration="106000" />
+      <workItem from="1581251115933" duration="540000" />
+      <workItem from="1581253270955" duration="1326000" />
+      <workItem from="1581337146419" duration="1973000" />
+      <workItem from="1581917289808" duration="297000" />
+      <workItem from="1581917687550" duration="294000" />
+      <workItem from="1582355181126" duration="206000" />
+      <workItem from="1583212723750" duration="209000" />
+      <workItem from="1583841506437" duration="960000" />
+      <workItem from="1583929261636" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
